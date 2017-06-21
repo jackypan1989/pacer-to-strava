@@ -1,0 +1,16 @@
+{
+  "name": "pacer-to-strava",
+  "version": "1.0.0",
+  "description": "convert pacer data (.csv) to strava data (.gpx)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jackypan1989@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "babyparse": "^0.4.6",
+    "csv": "^1.1.1",
+    "ramda": "^0.24.1"
+  }
+}
